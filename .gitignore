@@ -1,3 +1,9 @@
+#self files
+/project/arm/flexspi_nor_debug
+/project/arm/flexspi_nor_release
+/project/arm/ram_debug
+/project/arm/sdram_debug
+
 # Prerequisites
 *.d
 
